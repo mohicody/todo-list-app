@@ -23,7 +23,8 @@ To get a local copy up and running, follow these simple steps:
 
 You only need a web browser to run this project locally
 
-#how it is works
+## How it works
+
 Open the app in your web browser.
 Type a task into the input field and click the "Add Task" button to add it to the list.
 Click on a task to mark it as completed (it will be styled with a strikethrough).
