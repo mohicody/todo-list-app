@@ -1,4 +1,4 @@
-# To-Do List App
+# Simple To-Do List App
 
 A simple, responsive To-Do List application built using HTML, CSS, and JavaScript. This project demonstrates basic front-end development skills and allows users to add, delete, and mark tasks as completed.
 
